@@ -8,7 +8,7 @@ import sys
 
 print("Bienvenue dans cette petite calculatrice sous Python pour entier.\n")
 
-
+## commit 2
 def run_calc():
     op = input("Choisissez une opération entre +, -, x , / et %      : \n")
     term_1 = input("Entrer votre premier entier \n")
