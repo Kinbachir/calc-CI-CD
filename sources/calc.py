@@ -31,7 +31,7 @@ def div(arg1,arg2):
 
 def modulo(arg1,arg2):
     try:
-        return int(arg1)%int(arg2)+int(arg2)
+        return int(arg1)%int(arg2)
     except ValueError:
         print("Un des arguments n'est pas un entier")    
 
