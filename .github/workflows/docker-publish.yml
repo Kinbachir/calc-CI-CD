@@ -2,7 +2,7 @@ name: Update the container calculator
 on:
 push:
 branches:
-- &#39;main&#39;
+- main
 jobs:
 docker:
 runs-on: ubuntu-latest
